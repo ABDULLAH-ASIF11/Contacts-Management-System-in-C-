@@ -1,4 +1,4 @@
-# Contacts-Management-System-in-C-
+# Contacts-Management-System-in-C++
 It is basic working of how Contacts system work means it can do all basic task that we use most of the time in Contacts System.
 
 Certainly! A Contacts Management System in C++ is a program designed to manage a list of contacts, typically including information such as names, phone numbers, email addresses, and any other relevant details. Here's a basic description of how such a system might work:
