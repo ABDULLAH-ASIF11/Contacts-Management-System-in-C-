@@ -3,7 +3,7 @@ It is basic working of how Contacts system work means it can do all basic task t
 
 Certainly! A Contacts Management System in C++ is a program designed to manage a list of contacts, typically including information such as names, phone numbers, email addresses, and any other relevant details. Here's a basic description of how such a system might work:
 
-Firstly I want to tell you that this code is written in C++ using concept of OOP(Object Oriented Programming) also this code is written in 3 File Structur to enhance user experience and understanding about code.
+Firstly I want to tell you that this code is written in C++ using concept of OOP(Object Oriented Programming) also this code is written in 3 File Structure to enhance user experience and understanding about code.
 
 1). Add Contact: Allows users to add a new contact to the contacts book by providing details such as first name, last name, phone number, email, and address.
 
